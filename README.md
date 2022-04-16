@@ -9,6 +9,9 @@ Libraries Used :
 - [Go to Site](https://twitmapper.herokuapp.com/)
 - [Repo Link](https://github.com/adhilameenet/twitter-api)
 
+![preview](assets/frontpage.png)
+![preview](assets/twitmapper.png)
+
 ### Team Members
 [adhilameenet](https://github.com/adhilameenet)
 [hadibinnoor](https://github.com/hadui)

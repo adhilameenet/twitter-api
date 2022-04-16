@@ -13,11 +13,9 @@ Libraries Used :
 ![preview](assets/twitmapper.png)
 
 ### Team Members
-[adhilameenet](https://github.com/adhilameenet)
-[hadibinnoor](https://github.com/hadui)
-[ismailnajeeb](https://github.com/issunajeeb7)
-
-![]("https://ibb.co/2cL51xQ")
+- [adhilameenet](https://github.com/adhilameenet)
+- [hadibinnoor](https://github.com/hadui)
+- [ismailnajeeb](https://github.com/issunajeeb7)
 
 ## Setup
 

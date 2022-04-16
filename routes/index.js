@@ -16,7 +16,7 @@ router.post('/', (req, res, next) => {
   client.users.fetchByUsername(username).then((user) => {
     if (user) {
       res.render('user.hbs', { user })
-    }
+    } 
   });
 })
 

@@ -16,7 +16,11 @@ router.post('/', (req, res, next) => {
     if (user) {
       res.render('user', {user})
     } 
-  })
+  }).catch((error) => {
+    if(error) {
+      res.render('nouser')
+    }
+   })
 })
 
 
